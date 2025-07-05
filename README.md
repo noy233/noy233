@@ -23,7 +23,7 @@ I'm a college student at **UESTC** in China, currently pursuing my degree in **S
 
 
 
-- My technical expertise includes languages like **Java**, **Go**, and tools such as Git/GitHub, Docker, and Spring. I'm originally learning backend and 进一步 exploring the world of **microservices** and **distributed systems**.
+- My technical expertise includes languages like **Java**, **Go**, and tools such as Git/GitHub, Docker, and Spring. I'm originally learning backend and further exploring the world of **microservices** and **distributed systems**.
 - Currently, I am learning Spring, Spring Boot, and various middleware technologies. I have also started my journey with Go by studying "The Go Programming Language" to gain a more comprehensive set of back-end development skills.
 - I am also trying to participate in collaborative project development and seeking to contribute to open-source projects.
 - Looking ahead, I am aiming to secure a back-end internship or job offer, actively contribute to the open-source community, and gain a basic understanding of machine learning.
