@@ -69,4 +69,4 @@ I'm a college student at **UESTC** in China, currently pursuing my degree in **S
 
 ### **GitHub Activity Tracker**
 
-![github contribution snake](https://raw.githubusercontent.com/noy233/noy233/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/noy233/snk/output/github-contribution-grid-snake.svg)
