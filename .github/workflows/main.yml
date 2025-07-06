@@ -1,0 +1,45 @@
+# 工作流的名字
+name: Generate Snake Animation
+
+# 触发工作流的条件
+on:
+  # 1. 每天凌晨 0 点定时触发
+  schedule:
+    - cron: "0 0 * * *"
+  # 2. 允许你手动在 Actions 页面触发
+  workflow_dispatch:
+
+# 授予工作流将文件推送到仓库的权限
+permissions:
+  contents: write
+
+jobs:
+  # 定义一个名为 "generate" 的任务
+  generate:
+    runs-on: ubuntu-latest # 使用最新的 ubuntu 系统环境
+    steps:
+      # 第一步：生成贪吃蛇动画文件
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3 # 使用专门生成 svg 的版本，速度更快
+        with:
+          # 你的 GitHub 用户名 (这里会自动获取，无需修改)
+          github_user_name: ${{ github.repository_owner }}
+
+          # 定义要输出的文件列表和样式
+          # - 第1行: 生成一个给浅色模式用的 svg
+          # - 第2行: 生成一个给深色模式用的 svg，使用 'github-dark' 调色板
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # 第二步：将生成的 dist 文件夹内容推送到 output 分支
+      - name: Push snake animation
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          # 目标分支的名字
+          target_branch: output
+          # 包含生成文件的目录
+          build_dir: dist
+        env:
+          # 提供一个令牌，让 action 有权限推送
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
