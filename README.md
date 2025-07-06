@@ -79,7 +79,7 @@ I'm a college student at **UESTC** in China, currently pursuing my degree in **S
 ![GitHub Snake](https://raw.githubusercontent.com/noy233/snk/output/github-contribution-grid-snake.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noy233/noy233/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noy233/noy233/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/noy233/noy233/output/github-snake.svg" />
 </picture>
