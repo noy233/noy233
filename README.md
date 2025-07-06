@@ -76,8 +76,6 @@ I'm a college student at **UESTC** in China, currently pursuing my degree in **S
 
 ### **GitHub Activity Tracker**
 
-![GitHub Snake](https://raw.githubusercontent.com/noy233/snk/output/github-contribution-grid-snake.svg)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noy233/noy233/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noy233/noy233/output/github-snake.svg" />
