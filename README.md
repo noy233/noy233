@@ -68,7 +68,7 @@ I'm a college student at **UESTC** in China, currently pursuing my degree in **S
 
 ### **GitHub Stats**
 
-![Anurag's GitHub stats](https://github-readme-stats-2ztgozlkc-noy233s-projects.vercel.app/api?username=noy233&count_private=true)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=noy233&hide_border=true)](https://git.io/streak-stats)
 
