@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a college student at **UESTC** in China, currently pursuing my degree in **Software Engineering**. I expect to write **reusable code**, solve **algorithmic challenges**, and develop **scalable backend systems**. Additionally, I am keen on **comprehensive backend learning** , Simultaneously learning both Go and Java to build complete web applications.
+I'm a college student at **UESTC** in China, currently pursuing my degree in **Software Engineering**. I expect to write **reusable code**, solve **algorithmic challenges**, and develop **scalable backend systems**. Additionally, I am keen on **comprehensive backend learning** , Simultaneously learning both Go and Java to build complete web applications. In parallel, to achieve comprehensive growth, I am also exploring the fields of advanced algorithms and **Search, Advertising, and Recommendation systems**.
 
 ------
 
@@ -23,10 +23,10 @@ I'm a college student at **UESTC** in China, currently pursuing my degree in **S
 
 
 
-- My technical expertise includes languages like **Java**, **Go**, and tools such as Git/GitHub, Docker, and Spring. I'm originally learning backend and further exploring the world of **microservices** and **distributed systems**.
+- My technical expertise includes languages like **Java**, **Go**, **python**. and tools such as Git/GitHub, Docker,  Spring and pytorch. I'm originally learning backend and further exploring the world of **microservices** and **distributed systems**.
 - Currently, I am learning Spring, Spring Boot, and various middleware technologies. I have also started my journey with Go by studying "The Go Programming Language" to gain a more comprehensive set of back-end development skills.
 - I am also trying to participate in collaborative project development and seeking to contribute to open-source projects.
-- Looking ahead, I am aiming to secure a back-end internship or job offer, actively contribute to the open-source community, and gain a basic understanding of machine learning.
+- Looking ahead, I am aiming to secure a back-end internship or job offer, actively contribute to the open-source community, and deepen my understanding of machine learning and its applications.
 - When I'm coding, I'm often intimidated by the unknown and feel overwhelmed by large, complex project structures. At the same time, however, I enjoy the pleasure of acquiring new knowledge and analyzing problems.
 - Feel free to connect with me, I'd love to collaborate and learn from others!
 
@@ -35,9 +35,9 @@ I'm a college student at **UESTC** in China, currently pursuing my degree in **S
 ### **Programming Languages**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70"/>
   <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/>
 </p>
 
 
@@ -54,7 +54,13 @@ I'm a college student at **UESTC** in China, currently pursuing my degree in **S
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="70"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="70"/>
 </p>
+
 
 ------
 
