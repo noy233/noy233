@@ -74,9 +74,7 @@ I'm a college student at **UESTC** in China, currently pursuing my degree in **S
 
 ### **GitHub Stats**
 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=noy233&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=noy233&hide_border=true)
 
 ------
 
